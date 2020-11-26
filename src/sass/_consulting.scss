@@ -1,0 +1,23 @@
+.consulting {
+  background: url(../img/bacground/bg2.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 680px;
+  padding: 100px 0 92px 0;
+  color: #ffffff;
+  &__title {
+    width: 780px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 36px;
+    margin-bottom: 50px;
+  }
+  &__description {
+    font-size: 20px;
+    font-family: "Museo Sans Cyrl 500";
+    width: 400px;
+    padding: 0;
+    margin: 0;
+  }
+}
