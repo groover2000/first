@@ -1,13 +1,13 @@
 .advantages {
   min-height: 480px;
-  background-color: #fff;
+  background-color: #f6f6f6;
   &__title {
     font-family: "Museo Sans Cyrl 700";
     font-size: 30px;
     color: black;
     text-transform: uppercase;
     text-align: center;
-    margin-top: 70px;
+    padding-top: 70px;
   }
   &__items {
     display: flex;
